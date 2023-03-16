@@ -1,2 +1,2 @@
 # Black-Jack
-A black jack pokergame
+A black jack pokergame built with javaScript
